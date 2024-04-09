@@ -1,0 +1,31 @@
+body{
+    background-image: url(../IMG/aleatorio.jpg) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    align-items: center;
+
+    
+}
+
+.tabela1{
+    color: white;
+    background-color: black;
+}
+
+.titulo1{
+    color: aliceblue;
+    background-color: gray;
+    
+}
+
+.s1{
+    color:aqua ;
+    background-color: white;
+    
+}
+
+.center{
+    border: crimson;
+    align-items: center;
+    position: absolute;
+}
